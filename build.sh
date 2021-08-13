@@ -1,0 +1,1 @@
+goos=linux go build -o main main.go && zip archive.zip main
